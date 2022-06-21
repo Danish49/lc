@@ -12,7 +12,7 @@ body{
     left: 50%;
     position: absolute;
     transform: translate(-50%,-50%);
-    height: 95vh;
+    height: 90vh;
     width: 60%;
     box-shadow: inset -8px -8px 12px rgb(185,103,117),
                 inset 8px 8px 12px rgb(201,95,114);
